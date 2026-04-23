@@ -11,7 +11,7 @@ English version of Deep Lerning in Computer vision Course for Master Degree prog
 
 ------------------------------
 
-## Compettion
+## Compettion (for minimal mark in exam!)
 
 1. CINIC Kaggle Compettion -
 2. Insects vs Foods - https://www.kaggle.com/t/c2c1dafe64854b1ab065c0c8cce41d0e
