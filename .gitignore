@@ -405,3 +405,4 @@ WS/.ipynb_checkpoints/WS4_PyTorch_Make_It_Better-checkpoint.ipynb
 WS/.ipynb_checkpoints/WS3_LeNet-checkpoint.ipynb
 WS/.ipynb_checkpoints/torch_trainer-checkpoint.py
 WS/.ipynb_checkpoints/torch_find_hparam-checkpoint.py
+WS/best_model_checkpoint.pt
