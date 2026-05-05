@@ -8,12 +8,16 @@ English version of Deep Lerning in Computer vision Course for Master Degree prog
 * WS2 - https://urfu.ktalk.ru/recordings/6KtW56VSIJsZSAanavX1
 * Lec3 - https://urfu.ktalk.ru/recordings/tOTKmZVNHcQNiur7Ql5J
 * WS3 - https://urfu.ktalk.ru/recordings/0PTn7EHuiNv1Ye0d67y7
+* Lec4 -
+* WS4 -
+* Lec5 -
+* WS5 - 
 
 ------------------------------
 
 ## Compettion (for minimal mark in exam!)
 
-1. CINIC Kaggle Compettion -
+1. CINIC Kaggle Compettion - https://www.kaggle.com/t/f1bb1017af394226a602de1f822607db
 2. Insects vs Foods - https://www.kaggle.com/t/c2c1dafe64854b1ab065c0c8cce41d0e
 3. Semantic segmentation - https://www.kaggle.com/t/a68c39880607475aafa1c431a91f70ea
 4. Objec detection (Craters) - https://www.kaggle.com/t/11558e5087a742e39845bfba5c5562c0
