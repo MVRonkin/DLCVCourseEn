@@ -26794,3 +26794,5 @@ WS/data/pets/annotations/README
 WS/data/pets/annotations/list.txt
 WS/data/pets/annotations/._trimaps
 WS/data/pets/annotations.tar.gz
+WS/best_model.pt
+WS/best_model.pt
