@@ -8,10 +8,17 @@ English version of Deep Lerning in Computer vision Course for Master Degree prog
 * WS2 - https://urfu.ktalk.ru/recordings/6KtW56VSIJsZSAanavX1
 * Lec3 - https://urfu.ktalk.ru/recordings/tOTKmZVNHcQNiur7Ql5J
 * WS3 - https://urfu.ktalk.ru/recordings/0PTn7EHuiNv1Ye0d67y7
-* Lec4 -
-* WS4 -
-* Lec5 -
-* WS5 - 
+* Lec4 - https://urfu.ktalk.ru/recordings/tOTKmZVNHcQNiur7Ql5J
+* WS4 - https://urfu.ktalk.ru/recordings/0PTn7EHuiNv1Ye0d67y7
+* Lec5 - https://urfu.ktalk.ru/recordings/ZHNWobedKG1582LO1Ge2
+* WS5 - https://urfu.ktalk.ru/recordings/vQ7fdLDZz34QW2KCrDT6
+* Lec6 - https://urfu.ktalk.ru/recordings/vAWCwuUuukQxmMwso47V
+* WS6 - https://urfu.ktalk.ru/recordings/tzFJyeoSXfp4IDoUtMVE
+* Lec7 - https://urfu.ktalk.ru/recordings/UdbEVW5q51nnJCy74JlB
+* WS7 - https://urfu.ktalk.ru/recordings/tzFJyeoSXfp4IDoUtMVE
+* Lec8 - https://urfu.ktalk.ru/recordings/gfzDSq4ga8QdTWWxpnrY
+
+
 
 ------------------------------
 
